@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/fast-forward.png</file>
+        <file>images/pause.png</file>
+        <file>images/play.png</file>
+        <file>images/rewind.png</file>
+        <file>images/stop.png</file>
+        <file>images/down.png</file>
+        <file>images/up.png</file>
+        <file>images/add.png</file>
+        <file>images/delete.png</file>
+        <file>images/off.png</file>
+    </qresource>
+    <qresource prefix="/musics">
+        <file>musics/Anne Hathaway-05-I Dreamed A Dream.png</file>
+        <file>musics/Beyonce-01-Run The World.png</file>
+        <file>musics/Bruno Mars-01-Just The Way You Are.png</file>
+        <file>musics/Carly Rae Jepsen-01-Call Me Maybe.png</file>
+        <file>musics/KeSha-01-Die Young.png</file>
+        <file>musics/We_Are_Never_Ever_Getting_Back_Together_Taylor_Swift.png</file>
+        <file>musics/Train-01-Angel In Blue Jeans.png</file>
+        <file>musics/MIKA-10-Happy Ending.png</file>
+        <file>musics/KeSha - 01 - TiK ToK.png</file>
+        <file>musics/text/Beyonce-01-Run The World.txt</file>
+        <file>musics/text/Anne Hathaway-05-I Dreamed A Dream.txt</file>
+        <file>musics/text/Bruno Mars-01-Just The Way You Are.txt</file>
+        <file>musics/text/KeSha-01-Die Young.txt</file>
+        <file>musics/text/Carly Rae Jepsen-01-Call Me Maybe.txt</file>
+        <file>musics/text/KeSha - 01 - TiK ToK.txt</file>
+        <file>musics/text/MIKA-10-Happy Ending.txt</file>
+        <file>musics/text/Train-01-Angel In Blue Jeans.txt</file>
+        <file>musics/text/We_Are_Never_Ever_Getting_Back_Together_Taylor_Swift.txt</file>
+    </qresource>
+</RCC>
